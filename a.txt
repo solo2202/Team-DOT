@@ -14,7 +14,7 @@ Passive Attacks
 Zero day
 Botnet
 TCP/UDP
-https and https
+http and https
 http methods and status codes(should be able to distinguish between different codes and methods)
 API
 JSON structure
