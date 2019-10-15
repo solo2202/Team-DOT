@@ -24,3 +24,4 @@ ping
 telnet
 nmap - learn different types of scans, there uses
 burp
+sqlmap
